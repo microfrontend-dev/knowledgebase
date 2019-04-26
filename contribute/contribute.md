@@ -12,5 +12,7 @@ Open a Pull request on [https://github.com/microfrontend-dev/knowledgebase](http
 
 Open an issue on [https://github.com/microfrontend-dev/knowledgebase/issues](https://github.com/microfrontend-dev/knowledgebase/issues)
 
+## Contributors
 
+todo
 

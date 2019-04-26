@@ -3,13 +3,21 @@
 * [Introduction](README.md)
 * [Why Microfrontends?](why-microfrontends.md)
 
+## Architecture
+
+* [Overview](architecture/overview.md)
+* [Monolith](architecture/monolith.md)
+* [Modular Monolith](architecture/modular-monolith.md)
+* [Self-Contained System](architecture/self-contained-system.md)
+* [Microfrontend](architecture/microfrontend.md)
+
 ## Patterns
 
-* [Overview](patterns/overview.md)
-* [Monolith](patterns/monolith.md)
-* [Modular Monolith](patterns/modular-monolith.md)
-* [Self-Contained System](patterns/self-contained-system.md)
-* [Microfrontend](patterns/microfrontend.md)
+* [App Discovery](patterns/app-discovery.md)
+* [UI Framework](patterns/ui-framework.md)
+* [Integration compile time / runtime](patterns/integration-compile-time-runtime.md)
+* [Monorepo vs. multiple repos](patterns/monorepo-vs.-multiple-repos.md)
+* [Dependency management](patterns/dependency-management.md)
 
 ## Resources
 
