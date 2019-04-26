@@ -2,3 +2,7 @@
 
 * [Introduction](README.md)
 
+## Patterns
+
+* [Overview](patterns/overview.md)
+
