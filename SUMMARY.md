@@ -6,3 +6,9 @@
 
 * [Overview](patterns/overview.md)
 
+## Resources
+
+* [Links](resources/links.md)
+* [Books](resources/books.md)
+* [Talks](resources/talks.md)
+
