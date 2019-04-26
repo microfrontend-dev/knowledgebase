@@ -6,5 +6,7 @@ Today Microservices and nanoservices are very popular and are discussed forth an
  microfrontend.dev is an open source collection of concepts and patterns around user interface decomposition.
 {% endhint %}
 
+### 👷♂ Status
 
+We just started this page and there is not much content yet. If you like to contribute please see [Contribute](contribute/contribute.md)
 
