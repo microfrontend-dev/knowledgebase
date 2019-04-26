@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Why Microfrontends?](why-microfrontends.md)
 
 ## Patterns
 
