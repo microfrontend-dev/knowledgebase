@@ -1,6 +1,6 @@
 # Introduction
 
-![](.gitbook/assets/microfrontend-logo.png)
+![](.gitbook/assets/microfrontend-title.png)
 
 Today Microservices and nanoservices are very popular and are discussed forth and back within the community. But too often, the front end part of the architecture is not covered. Resources on that topic are sparse. That leads to microservice architectures with a ui monolith on top. We want to fill that gap.
 
