@@ -37,7 +37,7 @@ However, this architecture styles still don't solve the problem of scalability a
 
 Services in a service oriented architecture are still quite large in functionality and code. A [microservice architecture](https://microservices.io) breaks this up. Services in a microservice architecture should be small enough to be understood as it whole by every developer in the team. They can be deployed independently, are scalable and so small that throwing away a service does not hurt.
 
-## And the user interface?
+## From UI monolith to microfrontends
 
 We have seen many projects with a service oriented or microservice architecture. In the end they all have a single user interface. We call this a UI monolith. As the name already indicates, a UI monolith brings back the original problematics to our enhanced architecture.
 
