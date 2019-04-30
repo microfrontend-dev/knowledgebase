@@ -47,7 +47,7 @@ We have seen many projects with a service oriented or microservice architecture.
 * It is not independently deployable.
 * Its evolvability is limited.
 
-So, how hane we break it up again to gain the full advantage of our chosen architecture?
+So, how can we break it up again to gain the full advantage of our chosen architecture?
 
 {% hint style="info" %}
 Every component and service should have its own user interface which get composed to the user interface of the system.
