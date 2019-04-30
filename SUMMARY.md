@@ -13,6 +13,7 @@
 
 ## Patterns
 
+* [Alignment vs. Flexibility](patterns/alignment-vs.-flexibility.md)
 * [App Discovery](patterns/app-discovery.md)
 * [UI Framework](patterns/ui-framework.md)
 * [Integration compile time / runtime](patterns/integration-compile-time-runtime.md)
