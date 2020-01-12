@@ -8,6 +8,7 @@
 * [Overview](architecture/overview.md)
 * [Monolith](architecture/monolith.md)
 * [Modular Monolith](architecture/modular-monolith.md)
+* [Microkernel Architecture](architecture/microkernel-architecture.md)
 * [Self-Contained System](architecture/self-contained-system.md)
 * [Microfrontend](architecture/microfrontend.md)
 
